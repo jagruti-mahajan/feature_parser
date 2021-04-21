@@ -1,11 +1,11 @@
-radio - am/fm
+
 trip computer
-power windows
+power windows	
 power windows	- safety reverse
 power windows	- express-down
 power windows - touch down
 power windows - front
-power windows - rear
+ power windows - rear
 traction control
 power steering
 power steering - electric
@@ -18,11 +18,21 @@ rear seat folding - 60-40
 rear seat folding - 40-20-40
 rear seat folding - 50-50
 rear seat folding - 35-30-30
+front seats - heated
+front seats - bucket
+front seats - bench
+front seats - power
+rear seats - bench
+rear seats - split-bench
+folding seats - power folding
+folding seats - manual folding
+folding seats - front  
+folding seats - rear
 brake assist
 brake assist - hydraulic
 brake assist - electric
 tachometer
-tire pressure monitor/warning system
+
 vanity mirror
 vanity mirror - passenger
 vanity mirror - driver
@@ -57,7 +67,7 @@ head airbags
 steering wheel - tilt
 steering wheel - telescopic
 steering wheel - leather
-steering wheel - mounted audio controls
+steering wheel - mounted audio controls 
 steering wheel - mounted cruise controls
 illuminated entry
 door bin - driver
@@ -76,7 +86,7 @@ power seat - driver - 4-way
 power seat - driver - 6-way
 power seat - driver - 8-way
 power seat - driver - 10-way
-power seat - driver - 12-way
+power seat - driver - 12-way 
 power seat - passenger
 power seat - passenger - 2-way
 power seat - passenger - 4-way
@@ -93,7 +103,7 @@ headlights - hid
 headlights - automatic
 headlights - intelligent auto
 alloy wheels - 18"
-alloy wheels - 17"
+alloy wheels - 17" 
 alloy wheels - 19"
 alloy wheels - 20"
 speed control
@@ -105,9 +115,10 @@ wipers - speed sensitive
 wipers - rain detecting
 wipers - windshield
 wipers - rear
+
 door mirror - power
 door mirror - auto-dimming
-door mirror - heated
+door mirror - heated 
 door mirror - tilt down
 door mirror - adjustable
 door mirror - convex spotter
@@ -139,7 +150,7 @@ air filteration - pollen
 air filteration - micron
 armrest - front center
 armrest - rear center
-armrest - passenger
+armrest - passenger 
 armrest - driver
 abs and driveline
 4-wheel disc brake
@@ -153,17 +164,14 @@ back-up camera - park view
 back-up camera - surround view
 handler cloth - driver
 handler cloth - passenger
+
 cupholder
 cupholder - rear
 cupholder - front
 navigation system - touch screen
 navigation system - voice recognition
-front seats - heated
-front seats - bucket
-front seats - bench
-front seats - power
-rear seats - bench
-rear seats - split-bench
+
+
 shock absorbers
 shock absorbers - gas
 shock absorbers - hd
@@ -179,13 +187,16 @@ fog lights - rear
 engine location - front
 engine location - mid
 engine location - rear
+Stability control
 electronic stability
+roll stability
+
 engine immobilizer
 variable valve control
 active valve control
 ignition disable
 daytime running lights
-radio - am/fm
+radio - am/fm 
 radio - satellite
 radio - siriusxm
 radio - hd
@@ -195,3 +206,121 @@ moonroof - power
 moonroof - power glass
 moonroof - panoramic
 moonroof - tilt/slide
+upholstery
+upholstery - cloth
+upholstery - leather
+upholstery - vinyl
+spoiler
+spoiler - rear
+spoiler - rear - lip
+spoiler - rear - wing
+spoiler - rear - body-color
+spoiler - rear - decklid
+spoiler - roof
+systems monitor
+tire pressure monitor => ["tire pressure warning"]
+rearview monitor
+blind spot monitor
+oil life monitor
+perimeter alarm
+perimeter - anti-theft alarm
+wheel type - steel
+wheel type - aluminum
+door handles
+door handles - body-colored
+door handles - chrome
+door handles - black
+seating capacity - 2
+seating capacity - 3
+seating capacity - 4
+seating capacity - 5
+seating capacity - 6
+seating capacity - 7
+seating capacity - 8
+seating capacity - 9
+seating capacity - 10
+seating capacity - 12
+seating capacity - 15
+seatback pockets
+seatback pockets - front
+seatback pockets - 2
+seatback pockets - 4
+valet function
+carpet floor
+display - analog
+display - digital
+display - multi-function
+display - real-time traffic
+display - fuel economy
+display - monochromatic
+display - touch screen
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+liftgate
+liftgate - power
+liftgate - rear
+liftgate - rear - manual
+liftgate - rear - cargo
+liftgate - hands-free
+glove box
+glove box - illuminated
+glove box - lockable
+glove box - compartment
+steel panels - galvanized
+aluminum panels - galvanized
+composite panels - galvanized
+valves - 8
+valves - 16
+valves - 24
+valves - 32
+valves - 40
+valves - 48
+valves - 60
+lcd monitor
+lcd monitor - front
+lcd monitor - rear
+auto-latch
+trunk/hatch auto-latch
+child seat latch system
+abs
+exhaust
+exhaust - stainless steel
+exhaust - quasi-dual stainless steel
+speakers - 4
+speakers - 6
+speakers - 7
+speakers - 8
+speakers - 9
+speakers - 10
+speakers - 11
+speakers - 12
+speakers - 13 
+map lights
+map lights - front
+map lights - rear
+garage door transmitter
+garage door transmitter: homelink
+head restraints
+head restraints - front
+head restraints - front - anti-whiplash
+head restraints - front - manual adjustable
+head restraints - front - power adjustable
+head restraints - rear
+head restraints - rear - anti-whiplash
+head restraints - rear - manual adjustable
+head restraints - rear - power adjustable
+trailer sway control
+hitch sway control
+ 
+ 
+ 
+ 
+ 
+ 
+
+

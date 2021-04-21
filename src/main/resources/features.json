@@ -1,0 +1,497 @@
+[
+  {
+    "name": "windows",
+    "type": ["power","safety reverse", "express-down", "touch down", "front", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "power seat",
+    "type": ["driver", "passenger", "2-way", "4-way", "6-way", "8-way", "10-way", "12-way"],
+    "aliases": []
+  },
+  {
+    "name": "seat folding",
+    "type": ["power", "manual", "front", "rear", "60-40", "40-20-40", "50-50", "35-30-30"],
+    "aliases": []
+  },
+  {
+    "name": "front seats",
+    "type": ["heated", "bucket", "bench", "power"],
+    "aliases": []
+  },
+  {
+    "name": "rear seats",
+    "type": ["split-bench", "bench"],
+    "aliases": []
+  },
+  {
+    "name": "seating capacity",
+    "type": ["2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "15"],
+    "aliases": []
+  },
+  {
+    "name": "speakers",
+    "type": ["4", "6", "7", "8", "9", "10", "11", "12", "13"],
+    "aliases": []
+  },
+  {
+    "name": "airbags",
+    "type": ["front", "dual", "driver", "passenger", "knee", "head", "side", "knee", "head"],
+    "aliases": []
+  },
+  {
+    "name": "door mirror",
+    "type": ["power", "auto-dimming", "heated", "tilt down", "adjustable", "convex spotter"],
+    "aliases": []
+  },
+  {
+    "name": "steering wheel",
+    "type": ["tilt", "telescopic", "leather", "mounted audio controls", "mounted cruise controls", "control"],
+    "aliases": []
+  },
+  {
+    "name": "power steering",
+    "type": ["electric", "hydraulic"],
+    "aliases": []
+  },
+  {
+    "name": "radio",
+    "type": ["am/fm", "satellite", "siriusxm", "hd"],
+    "aliases": []
+  },
+  {
+    "name": "player",
+    "type": ["in-dash", "single-slot", "mp3", "cd"],
+    "aliases": []
+  },
+  {
+    "name": "door handles",
+    "type": ["body-colored", "chrome", "black"],
+    "aliases": []
+  },
+  {
+    "name": "wipers",
+    "type": ["intermittent", "front", "speed sensitive", "rain detecting", "windshield", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "headlights",
+    "type": ["halogen", "led", "xenon", "auto on/off", "auto delay off", "hid", "automatic", "intelligent auto"],
+    "aliases": ["Headlamps"]
+  },
+  {
+    "name": "vanity mirror",
+    "type": ["passenger", "driver"],
+    "aliases": []
+  },
+  {
+    "name": "tire pressure",
+    "type": ["warning", "Monitoring", "Monitor"],
+    "aliases": []
+  },
+  {
+    "name": "trip computer",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "power windows",
+    "type": ["safety reverse", "express-down", "touch down", "front", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "traction control",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "keyless",
+    "type": ["entry", "start"],
+    "aliases": []
+  },
+  {
+    "name": "rear seat folding",
+    "type": ["60-40", "40-20-40", "50-50", "35-30-30"],
+    "aliases": []
+  },
+  {
+    "name": "folding seats",
+    "type": ["power", "manual", "rear", "front"],
+    "aliases": []
+  },
+  {
+    "name": "brake assist",
+    "type": ["hydraulic", "electric"],
+    "aliases": []
+  },
+  {
+    "name": "tachometer",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "exterior parking camera",
+    "type": ["rear", "front", "left", "right"],
+    "aliases": []
+  },
+  {
+    "name": "compass",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "parking sensors",
+    "type": ["rear", "front"],
+    "aliases": []
+  },
+  {
+    "name": "system security",
+    "type": ["anti-theft", "alarm"],
+    "aliases": []
+  },
+  {
+    "name": "illuminated entry",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "door bin",
+    "type": ["driver", "passenger", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "dual zone a/c",
+    "type": ["front", "rear", "temperature control", "climate control"],
+    "aliases": []
+  },
+  {
+    "name": "reading lights",
+    "type": ["front", "rear", "third row"],
+    "aliases": []
+  },
+  {
+    "name": "headlights",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "alloy wheels",
+    "type": ["18\"", "17\"", "19\"", "20\""],
+    "aliases": []
+  },
+  {
+    "name": "speed control",
+    "type": ["compensated volume", "sensitive audio volume"],
+    "aliases": []
+  },
+  {
+    "name": "temperature display",
+    "type": ["exterior", "outside"],
+    "aliases": []
+  },
+  {
+    "name": "window defroster",
+    "type": ["front", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "perimeter lights",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "panic alarm",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "phone connectivity",
+    "type": ["bluetooth", "wireless"],
+    "aliases": []
+  },
+  {
+    "name": "bumpers",
+    "type": ["body-color", "body-colored"],
+    "aliases": []
+  },
+  {
+    "name": "anti-roll bar",
+    "type": ["front", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "door locks",
+    "type": ["power", "auto-lock", "child safety"],
+    "aliases": []
+  },
+  {
+    "name": "console",
+    "type": ["overhead", "full overhead", "mini overhead","full floor"],
+    "aliases": []
+  },
+  {
+    "name": "air Filtration",
+    "type": ["active charcoal", "pollen", "micron"],
+    "aliases": []
+  },
+  {
+    "name": "armrest",
+    "type": ["front center", "rear center", "passenger", "driver"],
+    "aliases": []
+  },
+  {
+    "name": "abs and driveline",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "disc brakes",
+    "type": ["4-wheel"],
+    "aliases": []
+  },
+  {
+    "name": "side beams",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "fade-to-off interior lighting",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "wheel suspension",
+    "type": ["four", "independent", "4"],
+    "aliases": []
+  },
+  {
+    "name": "outside temperature gauge",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "back-up camera",
+    "type": ["rear view", "park view", "ParkView", "surround view"],
+    "aliases": []
+  },
+  {
+    "name": "handler cloth",
+    "type": ["driver", "passenger"],
+    "aliases": []
+  },
+  {
+    "name": "cupholder",
+    "type": ["rear", "front"],
+    "aliases": []
+  },
+  {
+    "name": "navigation",
+    "type": ["touch screen", "voice recognition"],
+    "aliases": ["navigation system"]
+  },
+  {
+    "name": "shock absorbers",
+    "type": ["gas", "hd"],
+    "aliases": []
+  },
+  {
+    "name": "beverage holder",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "foot rest",
+    "type": ["driver"],
+    "aliases": []
+  },
+  {
+    "name": "cargo space lights",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "fog lights",
+    "type": ["front", "halogen", "led", "rear", "lights", "lamps"],
+    "aliases": []
+  },
+  {
+    "name": "engine location",
+    "type": ["front", "mid", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "Stability",
+    "type": ["electronic", "roll"],
+    "aliases": []
+  },
+  {
+    "name": "engine immobilizer",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "valve control",
+    "type": ["variable", "active"],
+    "aliases": []
+  },
+  {
+    "name": "ignition disable",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "daytime running lights",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "emergency communication system",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "moonroof",
+    "type": ["power", "glass","panoramic", "tilt/slide"],
+    "aliases": []
+  },
+  {
+    "name": "upholstery",
+    "type": ["cloth", "leather", "vinyl"],
+    "aliases": []
+  },
+  {
+    "name": "spoiler",
+    "type": ["rear", "lip", "wing", "body-color", "decklid", "roof"],
+    "aliases": []
+  },
+  {
+    "name": "systems monitor",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "rearview monitor",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "blind spot monitor",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "oil life monitor",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "perimeter alarm",
+    "type": ["anti-theft alarm"],
+    "aliases": []
+  },
+  {
+    "name": "wheel type",
+    "type": ["steel", "aluminum"],
+    "aliases": []
+  },
+  {
+    "name": "seatback pockets",
+    "type": ["front", "2", "4"],
+    "aliases": []
+  },
+  {
+    "name": "valet function",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "carpet floor",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "display",
+    "type": ["analog", "digital", "multi-function", "real-time traffic", "fuel economy", "monochromatic", "touch screen"],
+    "aliases": []
+  },
+  {
+    "name": "liftgate",
+    "type": ["power", "rear", "manual", "cargo", "hands-free"],
+    "aliases": []
+  },
+  {
+    "name": "glove box",
+    "type": ["illuminated", "lockable", "compartment"],
+    "aliases": []
+  },
+  {
+    "name": "steel panels",
+    "type": ["galvanized"],
+    "aliases": []
+  },
+  {
+    "name": "aluminum panels",
+    "type": ["galvanized"],
+    "aliases": []
+  },
+  {
+    "name": "composite panels",
+    "type": ["galvanized"],
+    "aliases": []
+  },
+  {
+    "name": "valves",
+    "type": ["8", "16", "24", "32", "40", "48", "60"],
+    "aliases": []
+  },
+  {
+    "name": "lcd monitor",
+    "type": ["front", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "auto latch",
+    "type": ["trunk", "hatch", "child seat"],
+    "aliases": []
+  },
+  {
+    "name": "abs",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "exhaust",
+    "type": ["stainless steel", "quasi-dual"],
+    "aliases": []
+  },
+  {
+    "name": "map lights",
+    "type": ["front", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "garage door transmitter",
+    "type": ["homelink"],
+    "aliases": []
+  },
+  {
+    "name": "head restraints",
+    "type": ["front", "anti-whiplash", "manual adjustable", "power adjustable", "rear"],
+    "aliases": []
+  },
+  {
+    "name": "trailer sway control",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "hitch sway control",
+    "type": [],
+    "aliases": []
+  },
+  {
+    "name": "seat",
+    "type": ["power","driver", "passenger", "2-way", "4-way", "6-way", "8-way", "10-way", "12-way"],
+    "aliases": []
+  }
+]
